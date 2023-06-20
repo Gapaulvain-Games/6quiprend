@@ -67,7 +67,7 @@ Pour jouer contre des robots, lors de l'entrée des pseudos des joueurs vous dev
 
 ## Membres du projet
 - Sylvain Capblancq
-- Paul Le Blanc
+- [Paul Le Blanc](https://github.com/P33TheWhite)
 - Gabriel Pretou
 <br/><br/>
 ## Licence
