@@ -69,7 +69,3 @@ Pour jouer contre des robots, lors de l'entrée des pseudos des joueurs vous dev
 - Sylvain Capblancq
 - [Paul Le Blanc](https://github.com/P33TheWhite)
 - Gabriel Pretou
-<br/><br/>
-## Licence
-Ce projet est sous la licence Gapaulvain Games ©
-<br/><br/>
